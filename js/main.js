@@ -1,4 +1,4 @@
 alert('1');
-[(1, 2)].forEach(alert);
+alert('2');
 
 console.log('2');
